@@ -1,0 +1,11 @@
+var json_PunggolNEWElderlyCareCentre_21 = {
+"type": "FeatureCollection",
+"name": "PunggolNEWElderlyCareCentre_21",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": "1", "OBJECTID": 14.0, "PLN_AREA_N": "PUNGGOL", "PLN_AREA_C": "PG", "CA_IND": "N", "REGION_N": "NORTH-EAST REGION", "REGION_C": "NER", "INC_CRC": "796597828457DE51", "FMEL_UPD_D": "2016-05-11", "X_ADDR": 36537.8612, "Y_ADDR": 43023.1271, "SHAPE_Leng": 13848.247266599999, "SHAPE_Area": 9379969.2334599998 }, "geometry": { "type": "MultiPolygon", "coordinates": [ ] } },
+{ "type": "Feature", "properties": { "fid": "2", "OBJECTID": null, "PLN_AREA_N": null, "PLN_AREA_C": null, "CA_IND": null, "REGION_N": null, "REGION_C": null, "INC_CRC": null, "FMEL_UPD_D": null, "X_ADDR": null, "Y_ADDR": null, "SHAPE_Leng": null, "SHAPE_Area": null }, "geometry": { "type": "MultiPolygon", "coordinates": [ ] } },
+{ "type": "Feature", "properties": { "fid": "3", "OBJECTID": null, "PLN_AREA_N": null, "PLN_AREA_C": null, "CA_IND": null, "REGION_N": null, "REGION_C": null, "INC_CRC": null, "FMEL_UPD_D": null, "X_ADDR": null, "Y_ADDR": null, "SHAPE_Leng": null, "SHAPE_Area": null }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 103.918336910673631, 1.401917579361185 ], [ 103.917060005066176, 1.40310759227427 ], [ 103.916492427005991, 1.401822448678946 ], [ 103.916492378330773, 1.400442087368244 ], [ 103.918100343070535, 1.39925206279586 ], [ 103.918336907240459, 1.401822382034542 ], [ 103.918336910673631, 1.401917579361185 ] ] ] ] } },
+{ "type": "Feature", "properties": { "fid": "4", "OBJECTID": null, "PLN_AREA_N": null, "PLN_AREA_C": null, "CA_IND": null, "REGION_N": null, "REGION_C": null, "INC_CRC": null, "FMEL_UPD_D": null, "X_ADDR": null, "Y_ADDR": null, "SHAPE_Leng": null, "SHAPE_Area": null }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 103.903061329152422, 1.41876801895611 ], [ 103.900791147938151, 1.417578119775441 ], [ 103.900601945787386, 1.416768947808421 ], [ 103.903439636816088, 1.417102053875238 ], [ 103.904811210505258, 1.418006386471247 ], [ 103.903203211893413, 1.418720415975491 ], [ 103.903061329152422, 1.41876801895611 ] ] ] ] } }
+]
+}
